@@ -197,7 +197,7 @@ Module['FS_createPath']("/", "textures", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/fonts/04B03.TTF", "start": 0, "end": 19492}, {"filename": "/fonts/fonts.xml", "start": 19492, "end": 19649}, {"filename": "/textures/common.png", "start": 19649, "end": 72826}, {"filename": "/textures/common.xml", "start": 72826, "end": 74417}], "remote_package_size": 74417});
+    loadPackage({"files": [{"filename": "/.DS_Store", "start": 0, "end": 6148}, {"filename": "/fonts/04B03.TTF", "start": 6148, "end": 25640}, {"filename": "/fonts/fonts.xml", "start": 25640, "end": 25797}, {"filename": "/textures/common.png", "start": 25797, "end": 78974}, {"filename": "/textures/common.xml", "start": 78974, "end": 80565}], "remote_package_size": 80565});
 
   })();
 
